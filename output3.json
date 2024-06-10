@@ -1,0 +1,24 @@
+{
+    "people": [
+        {
+            "speaker": "Agent",
+            "product": "family planning",
+            "product_side_effect": "Not Mentioned",
+            "Emotions": "Neutral",
+            "Entities_mentioned": "{\"State\":\"Yakutia\",\"Product\":\"family planning\",\"Caller's Occupation\":\"Not Mentioned\",\"Method\":\"Not Mentioned\",\"Method Duration\":\"Not Mentioned\",\"Side Effects\":\"Not Mentioned\"}",
+            "sentiment": "{\"Beginning Sentiment\":\"Neutral\",\"Reason\":\"The client's responses were neutral and did not show any strong emotions\",\"Ending Sentiment\":\"Neutral\",\"Reason\":\"The client's responses remained neutral throughout the call\"}",
+            "compliance": "{\"Establish Cordial Relationship\":\"yes\",\"Client Preference\":\"no\",\"Client Satisfaction\":\"no\"}",
+            "gender": "Female"
+        },
+        {
+            "speaker": "Client",
+            "product": "Not Mentioned",
+            "product_side_effect": "Not Mentioned",
+            "Emotions": "Neutral",
+            "Entities_mentioned": "{\"State\":\"Yakutia\",\"Product\":\"Not Mentioned\",\"Caller's Occupation\":\"Not Mentioned\",\"Method\":\"Not Mentioned\",\"Method Duration\":\"Not Mentioned\",\"Side Effects\":\"Not Mentioned\"}",
+            "sentiment": "{\"Beginning Sentiment\":\"Neutral\",\"Reason\":\"The client's responses were neutral and did not show any strong emotions\",\"Ending Sentiment\":\"Neutral\",\"Reason\":\"The client's responses remained neutral throughout the call\"}",
+            "compliance": "{\"Establish Cordial Relationship\":\"no\",\"Client Preference\":\"no\",\"Client Satisfaction\":\"no\"}",
+            "gender": "Female"
+        }
+    ]
+}

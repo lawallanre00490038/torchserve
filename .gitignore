@@ -1,0 +1,14 @@
+logs/
+
+model_dir/
+
+audioanalyticswithnodiarizer/
+
+
+model_store/
+
+serve/
+whisper-large-model/
+whisper-large-processor/
+py3nvml-0.2.4/
+__pycache__/
